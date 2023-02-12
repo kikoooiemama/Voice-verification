@@ -1,2 +1,4 @@
-# voice_verify_and_identify
-code with some projects that solve problem speaker identification and verification
+# Vocie verification project
+
+- Исследование проектов по верификации голоса и построение собственной модели.
+- Оценка качества
